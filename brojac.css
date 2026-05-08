@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #023535;
+  color: #bbf9f8;
+  
+}
+
+.kutija {
+  width: 50%;
+  margin: 2rem auto;
+  text-align: center;
+  padding: 4rem;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+#reset {
+  margin-bottom: 1rem;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 1.2rem 4rem;
+  border: transparent;
+  border-radius: 5px;
+  background-color: #008f8c;
+  color: #bbf9f8;
+}
+
+p {
+  margin-top: 1rem;
+}
+
+#brojac {
+  font-size: 22px;
+  margin-left: 1rem;
+}
+
+.footer-box {
+  border: 2px solid black;
+  padding: 3rem;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+
+ 
+}
+
